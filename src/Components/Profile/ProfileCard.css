@@ -1,0 +1,30 @@
+.profile-card {
+  border: 2px solid #ccd8e4;
+  border-radius: 12px;
+  padding: 20px;
+  width: 250px;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(25, 118, 210, 0.1);
+}
+
+.active-card {
+  border: 2px solid #cce015;
+}
+
+.profile-img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.profile-name {
+  margin: 12px 0 4px 0;
+  font-size: 2.25rem;
+  color: #ccd8e4;
+}
+
+.profile-title {
+  color: #d3cbcb;
+  font-size: 1rem;
+}
